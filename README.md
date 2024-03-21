@@ -1,0 +1,1 @@
+# halo-live2d-tips-config
