@@ -211,6 +211,9 @@
     "selector": ".admire-content .like, .admire-content .like i, .admire-content .like span, .admire-content .like span>span, .journal-operation-item .like, .journal-operation-item .like i, .journal-operation-item .like em",
     "text": ["我是不是棒棒哒～快给我点赞吧！", "你的点赞是我最大的鼓励！"]
   }, {
+    "selector": ".navbar-search button, .navbar-search button i",
+    "text": ["点它可以搜索哦！", "想要搜索吗？点它吧！"]
+  }, {
     "selector": "#weChatOfficialAccount",
     "text": ["这是主人的微信公众号哦！欢迎扫码关注。"]
   }],
