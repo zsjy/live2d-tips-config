@@ -221,7 +221,7 @@
     "selector": ".rounded-base, .form__editor",
     "text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
   }, {
-    "selector": ".btn-secondary",
+    "selector": ".btn-secondary, .form__button--submit",
     "text": ["提交评论啦～"]
   }],
   "seasons": [{
