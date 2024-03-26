@@ -217,7 +217,7 @@
     "selector": ".photos-gallery img, .gallery-item img",
     "text": ["点它可以放大哦！", "要看看大图吗？"]
   }, {
-    "selector": "#weChatOfficialAccount",
+    "selector": ".widget.wechat",
     "text": ["这是主人的微信公众号哦！欢迎扫码关注。"]
   }],
   "click": [{
