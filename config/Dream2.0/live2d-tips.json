@@ -208,7 +208,7 @@
     "selector": ".footer .cloud-driven img",
     "text": ["这是为主人提供云服务的地方哦！"]
   }, {
-    "selector": ".admire-content .like, .admire-content .like i, .admire-content .like span, .admire-content .like span>span, .journal-operation-item .like, .journal-operation-item .like i, .journal-operation-item .like em",
+    "selector": ".admire-content .like, .admire-content .like i, .admire-content .like span, .journal-operation-item .like, .journal-operation-item .like i",
     "text": ["我是不是棒棒哒～快给我点赞吧！", "你的点赞是我最大的鼓励！"]
   }, {
     "selector": ".navbar-search button, .navbar-search button i",
