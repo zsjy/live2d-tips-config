@@ -127,7 +127,7 @@
     "text": ["复制链接？来分享一波喵！", "点它复制链接吧！"]
   }
   , {
-    "selector": ".dshare-container .icon-poster, .journal-operation-item .share, .journal-operation-item .share i, .journal-operation-item .share em",
+    "selector": ".dshare-container .icon-poster, .journal-operation-item .share, .journal-operation-item .share em",
     "text": ["海报？来分享一波喵！", "点它生成海报吧！"]
   }, {
     "selector": ".container a[href^='http'], .nav-link .nav-text, .navbar-nav a, .links .link-items li, .title>a",
